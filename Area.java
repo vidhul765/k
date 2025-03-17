@@ -1,8 +1,8 @@
 import java.util.Scanner;
 class Area{
-	public static void main(string[] args){
+	public static void main(String[] args){
 		int r=5;
-		int a=3.14*r*r;
+		int a=R;
 		System.out.println(a);
 	}
 }
